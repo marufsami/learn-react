@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  background-color:aliceblue;
+  color:rgb(23, 68, 53);
+  border:2px solid black;
+  padding:20px;
+  width:400px;
+}
